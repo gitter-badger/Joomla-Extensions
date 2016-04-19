@@ -1,5 +1,7 @@
 # PS Video Gallery Joomla Module
 
+[![Join the chat at https://gitter.im/pcmshaper/Joomla-Extensions](https://badges.gitter.im/pcmshaper/Joomla-Extensions.svg)](https://gitter.im/pcmshaper/Joomla-Extensions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 PS Video Gallery is a powerful Image Video Module for Joomla2.5 and Joomla3+. It shows video thumbnail...
 
 [Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-video-gallery)
